@@ -23,7 +23,7 @@ The project implements a novel approach to image classification by applying Byte
 
 ### Performance Comparison
 
-![Performance Metrics](src/results/comparative_analysis_plots.png)
+![Performance Metrics](results/comparative_analysis_plots.png)
 
 The above plot shows the comparison of different performance metrics across various classifiers and encoding methods:
 - Accuracy comparison
@@ -33,13 +33,13 @@ The above plot shows the comparison of different performance metrics across vari
 
 ### Precision and Recall Analysis
 
-![Precision and Recall](src/results/precision_recall_comparison.png)
+![Precision and Recall](results/precision_recall_comparison.png)
 
 This visualization demonstrates the precision and recall metrics for different classifiers using both original and BPE-encoded data.
 
 ### Efficiency Analysis
 
-![Efficiency Comparison](src/results/efficiency_comparison.png)
+![Efficiency Comparison](results/efficiency_comparison.png)
 
 The efficiency comparison shows the trade-off between accuracy and computational resources for different approaches.
 
@@ -47,9 +47,9 @@ The efficiency comparison shows the trade-off between accuracy and computational
 
 The project includes sample visualizations demonstrating the BPE encoding process:
 
-![Sample 1](src/results/samples/sample_1.png)
-![Sample 2](src/results/samples/sample_2.png)
-![Sample 3](src/results/samples/sample_3.png)
+![Sample 1](results/samples/sample_1.png)
+![Sample 2](results/samples/sample_2.png)
+![Sample 3](results/samples/sample_3.png)
 
 These samples show:
 - Original images
